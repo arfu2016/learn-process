@@ -1,0 +1,18 @@
+process on
+https://www.processon.com/diagrams
+
+依存句法分析与语义依存分析的区别
+https://www.cnblogs.com/CheeseZH/p/5768389.html
+
+gaussic/text-classification-cnn-rnn
+https://github.com/gaussic/text-classification-cnn-rnn
+
+Deep learning
+http://neuralnetworksanddeeplearning.com/chap6.html
+
+
+Convolutional Neural Networks (CNNs / ConvNets)
+http://cs231n.github.io/convolutional-networks/
+
+Implementing a CNN for Text Classification in TensorFlow
+http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/
